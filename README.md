@@ -8,4 +8,4 @@ This is my portfolio website.
 
 ![Screenshot (59)](https://github.com/user-attachments/assets/29e626c2-9072-49c2-9e06-be7be892a79f)
 
-![Screenshot (63)](https://github.com/user-attachments/assets/1692c915-eedf-4710-a833-23f4ab0dc556)
+
