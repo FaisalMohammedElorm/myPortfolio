@@ -50,7 +50,7 @@ const Contact = () => {
               </div>
               <div>
                 <label htmlFor="message" className="block mb-2">Message</label>
-                <textarea type="text" 
+                <textarea  
                   className="w-full p-2 bg-gray-800 border border-gray-600 rounded focus:outline-none focus:border-green-400" 
                   rows= {5}
                   placeholder="Enter Your Message"
